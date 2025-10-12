@@ -1,0 +1,1082 @@
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.10.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.10.1.tif/10d.1B.10.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.456 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.463
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.931
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.382
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.10.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.10.2.tif/10d.1B.10.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.326 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.550
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.985
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.560
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.12.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.12.1.tif/10d.1B.12.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.25 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.413
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.931
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.281
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.12.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.12.2.tif/10d.1B.12.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.238 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.456
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.953
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.354
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.13.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.13.1.tif/10d.1B.13.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.157 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.463
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.960
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.330
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.14.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.14.1.tif/10d.1B.14.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.179 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.557
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.974
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.563
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.14.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.14.3.tif/10d.1B.14.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.309 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.479
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.875
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.480
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.15.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.15.2.tif/10d.1B.15.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.151 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.576
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.971
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.755
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.17.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.17.1.tif/10d.1B.17.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.272 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.547
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.543
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.17.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.17.2.tif/10d.1B.17.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.344 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.467
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.957
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.366
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.19.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.19.1.tif/10d.1B.19.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.201 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.496
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.976
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.461
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.20.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.20.2.tif/10d.1B.20.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.226 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.548
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.971
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.577
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.21.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.21.3.tif/10d.1B.21.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.111 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.549
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.964
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.624
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.23.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.23.2.tif/10d.1B.23.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.129 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.455
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.928
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.354
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.23.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.23.3.tif/10d.1B.23.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.103 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.549
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.959
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.606
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.25.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.25.1.tif/10d.1B.25.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.208 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.486
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.976
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.425
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.6.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.6.2.tif/10d.1B.6.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.274 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.369
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.885
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.228
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.7.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.7.1.tif/10d.1B.7.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.356 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.466
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.927
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.401
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.7.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.7.2.tif/10d.1B.7.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.315 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.511
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.985
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.493
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/10d.1B.9.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/10d.1B.9.1.tif/10d.1B.9.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.225 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.436
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.931
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.366
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.12_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.12_1.tif/4d.3B.12_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.182 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.631
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.952
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.890
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.2_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.2_1.tif/4d.3B.2_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.152 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.522
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.923
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.521
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.3_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.3_2.tif/4d.3B.3_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.124 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.606
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.920
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.861
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.3_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.3_3.tif/4d.3B.3_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.114 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.553
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.923
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.677
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.5_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.5_1.tif/4d.3B.5_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.16 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.526
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.931
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.544
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.5_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.5_2.tif/4d.3B.5_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.227 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.513
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.889
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.601
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.6_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.6_1.tif/4d.3B.6_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.204 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.619
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.939
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.818
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.8_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.8_1.tif/4d.3B.8_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.142 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.511
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.943
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.548
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.8_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.8_2.tif/4d.3B.8_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.189 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.508
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.854
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.594
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.008
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.3B.8_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.3B.8_3.tif/4d.3B.8_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.164 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.580
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.941
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.621
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.1.tif/4d.5C.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.158 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.451
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.938
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.436
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.1_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.1_2.tif/4d.5C.1_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.112 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.578
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.935
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.711
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.2_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.2_1.tif/4d.5C.2_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.154 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.467
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.941
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.502
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.3_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.3_1.tif/4d.5C.3_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.155 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.539
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.931
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.535
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.002
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.3_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.3_2.tif/4d.5C.3_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.113 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.572
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.939
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.655
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.3_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.3_3.tif/4d.5C.3_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.16 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.559
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.946
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.644
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.4_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.4_1.tif/4d.5C.4_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.136 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.579
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.931
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.764
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.4_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.4_2.tif/4d.5C.4_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.121 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.513
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.892
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.563
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.5_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.5_1.tif/4d.5C.5_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.172 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.473
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.858
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.482
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/4d.5C.5_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/4d.5C.5_2.tif/4d.5C.5_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.161 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.426
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.825
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.460
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.10_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.10_3.tif/7d.1.B.10_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.289 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.601
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.970
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.715
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.002
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.10_5.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.10_5.tif/7d.1.B.10_5.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.237 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.472
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.843
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.517
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.007
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.17_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.17_1.tif/7d.1.B.17_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.303 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.543
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.939
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.614
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.30_6.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.30_6.tif/7d.1.B.30_6.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.141 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.471
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.846
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.482
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.30_9.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.30_9.tif/7d.1.B.30_9.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.208 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.530
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.971
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.503
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.32_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.32_1.tif/7d.1.B.32_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.254 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.341
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.786
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.211
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.33_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.33_2.tif/7d.1.B.33_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.324 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.529
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.952
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.605
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.34_6.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.34_6.tif/7d.1.B.34_6.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.172 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.500
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.978
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.349
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.5_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.5_3.tif/7d.1.B.5_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.265 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.487
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.935
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.411
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.1.B.5_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.1.B.5_4.tif/7d.1.B.5_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.293 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.446
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.894
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.454
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.11_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.11_2.tif/7d.4C.11_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.354 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.537
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.976
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.601
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.11_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.11_4.tif/7d.4C.11_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.257 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.521
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.911
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.560
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.15_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.15_1.tif/7d.4C.15_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.192 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.488
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.925
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.474
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.18_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.18_1.tif/7d.4C.18_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.227 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.441
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.942
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.339
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.6_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.6_1.tif/7d.4C.6_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.407 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.515
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.957
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.523
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.6_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.6_2.tif/7d.4C.6_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.39 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.534
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.926
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.575
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.6_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.6_3.tif/7d.4C.6_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.301 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.545
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.970
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.540
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.7_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.7_1.tif/7d.4C.7_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.146 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.517
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.929
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.435
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.7_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.7_4.tif/7d.4C.7_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.229 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.451
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.868
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.427
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/unet_dani/unet+plantseg/7d.4C.8_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/unet_and_plantseg_mAP/7d.4C.8_2.tif/7d.4C.8_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.262 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.544
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.957
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.605
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Average Precision (AP) - IoU=0.50 : 0.9308166666666666
+Average Precision (AP) - IoU=0.75 : 0.5252666666666665

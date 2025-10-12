@@ -1,0 +1,1082 @@
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.10.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.10.1.tif/10d.1B.10.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.549 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.492
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.973
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.383
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.10.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.10.2.tif/10d.1B.10.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.304 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.565
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.527
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.007
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.12.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.12.1.tif/10d.1B.12.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.276 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.522
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.982
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.502
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.006
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.12.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.12.2.tif/10d.1B.12.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.235 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.492
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.450
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.13.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.13.1.tif/10d.1B.13.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.19 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.527
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.422
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.002
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.14.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.14.1.tif/10d.1B.14.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.187 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.536
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.465
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.14.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.14.3.tif/10d.1B.14.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.387 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.302
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.885
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.095
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.15.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.15.2.tif/10d.1B.15.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.157 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.603
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.709
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.17.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.17.1.tif/10d.1B.17.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.277 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.566
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.593
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.17.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.17.2.tif/10d.1B.17.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.49 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.445
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.302
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.19.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.19.1.tif/10d.1B.19.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.251 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.517
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.457
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.20.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.20.2.tif/10d.1B.20.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.228 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.489
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.443
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.21.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.21.3.tif/10d.1B.21.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.116 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.537
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.454
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.23.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.23.2.tif/10d.1B.23.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.139 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.499
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.949
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.470
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.001
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.23.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.23.3.tif/10d.1B.23.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.115 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.592
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.593
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.003
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.25.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.25.1.tif/10d.1B.25.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.192 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.506
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.447
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.6.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.6.2.tif/10d.1B.6.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.263 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.384
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.966
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.158
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.7.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.7.1.tif/10d.1B.7.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.394 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.525
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.474
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.7.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.7.2.tif/10d.1B.7.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.352 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.530
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.478
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.003
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/10d.1B.9.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/10d.1B.9.1.tif/10d.1B.9.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.24 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.457
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.946
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.379
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.002
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.12_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.12_1.tif/4d.3B.12_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.189 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.650
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.965
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.016
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.2_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.2_1.tif/4d.3B.2_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.142 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.584
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.591
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.3_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.3_2.tif/4d.3B.3_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.085 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.648
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.763
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.013
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.3_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.3_3.tif/4d.3B.3_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.118 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.651
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.723
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.5_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.5_1.tif/4d.3B.5_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.19 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.551
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.470
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.5_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.5_2.tif/4d.3B.5_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.213 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.568
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.620
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.001
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.6_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.6_1.tif/4d.3B.6_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.238 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.683
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.005
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.8_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.8_1.tif/4d.3B.8_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.153 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.592
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.670
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.008
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.8_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.8_2.tif/4d.3B.8_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.176 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.622
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.886
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.002
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.3B.8_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.3B.8_3.tif/4d.3B.8_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.165 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.665
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.939
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.1.tif/4d.5C.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.142 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.555
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.655
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.1_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.1_2.tif/4d.5C.1_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.111 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.558
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.657
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.2_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.2_1.tif/4d.5C.2_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.16 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.426
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.930
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.239
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.3_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.3_1.tif/4d.5C.3_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.156 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.559
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.597
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.3_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.3_2.tif/4d.5C.3_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.132 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.550
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.511
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.3_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.3_3.tif/4d.5C.3_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.187 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.514
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.440
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.001
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.4_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.4_1.tif/4d.5C.4_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.168 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.632
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.802
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.4_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.4_2.tif/4d.5C.4_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.142 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.493
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.376
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.5_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.5_1.tif/4d.5C.5_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.143 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.487
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.280
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/4d.5C.5_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/4d.5C.5_2.tif/4d.5C.5_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.165 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.593
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.614
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.004
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.10_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.10_3.tif/7d.1.B.10_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.305 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.443
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.873
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.423
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.10_5.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.10_5.tif/7d.1.B.10_5.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.276 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.516
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.971
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.498
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.023
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.17_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.17_1.tif/7d.1.B.17_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.324 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.531
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.574
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.001
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.30_6.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.30_6.tif/7d.1.B.30_6.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.156 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.475
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.227
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.30_9.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.30_9.tif/7d.1.B.30_9.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.195 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.551
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.546
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.003
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.32_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.32_1.tif/7d.1.B.32_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.282 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.249
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.615
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.149
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.33_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.33_2.tif/7d.1.B.33_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.346 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.669
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.861
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.039
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.34_6.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.34_6.tif/7d.1.B.34_6.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.195 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.581
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.583
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.005
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.5_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.5_3.tif/7d.1.B.5_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.312 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.418
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.966
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.326
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.1.B.5_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.1.B.5_4.tif/7d.1.B.5_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.283 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.349
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.951
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.237
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.11_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.11_2.tif/7d.4C.11_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.334 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.495
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.419
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.11_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.11_4.tif/7d.4C.11_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.292 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.409
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.956
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.284
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.15_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.15_1.tif/7d.4C.15_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.189 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.442
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.252
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.18_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.18_1.tif/7d.4C.18_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.261 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.453
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.171
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.6_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.6_1.tif/7d.4C.6_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.518 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.331
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.830
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.162
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.6_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.6_2.tif/7d.4C.6_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.392 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.589
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.600
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.003
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.6_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.6_3.tif/7d.4C.6_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.333 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.487
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.463
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.7_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.7_1.tif/7d.4C.7_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.163 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.529
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.438
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.001
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.7_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.7_4.tif/7d.4C.7_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.219 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.614
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 1.000
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.771
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.002
+
+Analizing file /media/pedro/6TB/jesus/methodology_naturalVariation/stardist/test/y_VOR/7d.4C.8_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/stardist_voro/7d.4C.8_2.tif/7d.4C.8_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.296 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.377
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.949
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.159
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Average Precision (AP) - IoU=0.50 : 0.9790333333333333
+Average Precision (AP) - IoU=0.75 : 0.49570000000000003

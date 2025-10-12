@@ -1,0 +1,1082 @@
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.10.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.10.1.tif/10d.1B.10.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.533 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.118
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.388
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.008
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.10.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.10.2.tif/10d.1B.10.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.348 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.120
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.397
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.015
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.12.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.12.1.tif/10d.1B.12.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.296 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.101
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.395
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.001
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.12.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.12.2.tif/10d.1B.12.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.285 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.157
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.550
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.038
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.13.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.13.1.tif/10d.1B.13.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.203 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.105
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.340
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.025
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.14.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.14.1.tif/10d.1B.14.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.259 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.189
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.599
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.041
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.14.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.14.3.tif/10d.1B.14.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.377 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.174
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.515
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.063
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.15.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.15.2.tif/10d.1B.15.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.191 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.259
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.692
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.120
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.17.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.17.1.tif/10d.1B.17.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.347 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.111
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.339
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.012
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.17.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.17.2.tif/10d.1B.17.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.465 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.01s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.152
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.585
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.018
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.19.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.19.1.tif/10d.1B.19.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.265 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.211
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.646
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.051
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.20.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.20.2.tif/10d.1B.20.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.276 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.293
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.727
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.209
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.21.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.21.3.tif/10d.1B.21.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.151 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.275
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.693
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.078
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.23.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.23.2.tif/10d.1B.23.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.196 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.146
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.575
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.010
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.23.3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.23.3.tif/10d.1B.23.3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.153 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.168
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.487
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.030
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.25.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.25.1.tif/10d.1B.25.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.238 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.230
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.723
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.062
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.6.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.6.2.tif/10d.1B.6.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.315 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.097
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.349
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.003
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.7.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.7.1.tif/10d.1B.7.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.545 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.130
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.414
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.012
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.7.2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.7.2.tif/10d.1B.7.2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.411 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.108
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.388
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.007
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/10d.1B.9.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/10d.1B.9.1.tif/10d.1B.9.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.279 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.128
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.454
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.029
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.12_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.12_1.tif/4d.3B.12_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.23 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.243
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.531
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.152
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.2_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.2_1.tif/4d.3B.2_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.185 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.130
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.468
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.025
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.3_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.3_2.tif/4d.3B.3_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.095 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.267
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.623
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.126
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.3_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.3_3.tif/4d.3B.3_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.169 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.116
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.278
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.058
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.5_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.5_1.tif/4d.3B.5_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.196 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.092
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.315
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.011
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.5_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.5_2.tif/4d.3B.5_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.248 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.249
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.585
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.096
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.6_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.6_1.tif/4d.3B.6_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.273 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.315
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.633
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.145
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.8_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.8_1.tif/4d.3B.8_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.206 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.278
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.697
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.100
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.8_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.8_2.tif/4d.3B.8_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.218 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.302
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.710
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.125
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.3B.8_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.3B.8_3.tif/4d.3B.8_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.303 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.157
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.451
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.021
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.1.tif/4d.5C.1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.16 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.157
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.446
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.046
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.1_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.1_2.tif/4d.5C.1_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.167 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.240
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.704
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.102
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.2_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.2_1.tif/4d.5C.2_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.212 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.130
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.505
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.004
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.3_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.3_1.tif/4d.5C.3_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.15 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.267
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.024
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.3_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.3_2.tif/4d.5C.3_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.176 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.172
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.467
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.021
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.3_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.3_3.tif/4d.5C.3_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.185 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.375
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.987
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.043
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.4_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.4_1.tif/4d.5C.4_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.19 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.343
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.892
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.084
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.4_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.4_2.tif/4d.5C.4_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.174 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.311
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.885
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.059
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.5_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.5_1.tif/4d.5C.5_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.213 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.179
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.652
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.046
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/4d.5C.5_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/4d.5C.5_2.tif/4d.5C.5_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.232 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.284
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.824
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.068
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.10_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.10_3.tif/7d.1.B.10_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.385 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.247
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.728
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.089
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.10_5.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.10_5.tif/7d.1.B.10_5.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.304 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.108
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.337
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.011
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.17_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.17_1.tif/7d.1.B.17_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.372 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.251
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.669
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.065
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.30_6.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.30_6.tif/7d.1.B.30_6.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.215 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.205
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.654
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.056
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.30_9.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.30_9.tif/7d.1.B.30_9.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.261 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.165
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.397
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.082
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.32_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.32_1.tif/7d.1.B.32_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.328 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.061
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.267
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.005
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.33_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.33_2.tif/7d.1.B.33_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.416 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.123
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.325
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.042
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.34_6.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.34_6.tif/7d.1.B.34_6.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.253 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.168
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.544
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.021
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.5_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.5_3.tif/7d.1.B.5_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.308 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.135
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.427
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.053
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.1.B.5_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.1.B.5_4.tif/7d.1.B.5_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.383 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.128
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.348
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.034
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.11_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.11_2.tif/7d.4C.11_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.398 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.155
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.509
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.023
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.11_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.11_4.tif/7d.4C.11_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.348 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.145
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.597
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.014
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.15_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.15_1.tif/7d.4C.15_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.332 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.128
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.447
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.017
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.18_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.18_1.tif/7d.4C.18_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.358 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.130
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.438
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.006
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.6_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.6_1.tif/7d.4C.6_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.391 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.187
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.570
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.037
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.6_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.6_2.tif/7d.4C.6_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.413 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.216
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.554
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.045
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.6_3.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.6_3.tif/7d.4C.6_3.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.338 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.163
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.483
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.020
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.7_1.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.7_1.tif/7d.4C.7_1.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.19 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.241
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.653
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.109
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.7_4.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.7_4.tif/7d.4C.7_4.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.268 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.163
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.441
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.007
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Analizing file /media/pedro/6TB/jesus/EM_Image_Segmentation/exp_results/cyst39_v2_BCM/results/cyst39_v2_BCM_102 (copia)/per_image_instances_voronoi/7d.4C.8_2.tif
+Creating prediction h5 file to calculate mAP: /media/pedro/6TB/jesus/methodology_naturalVariation/mAP/5cysts/7d.4C.8_2.tif/7d.4C.8_2.h5
+	1. Load data
+		 Assign prediction score
+	2. Compute IoU
+	 compute bounding boxes
+		 chunk 0
+	 compute iou matching
+	-RUNTIME:	0.347 [sec]
+
+start evaluation
+Accumulating evaluation results...
+DONE (t=0.00s).
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.181
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.600
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.010
+ Average Precision  (AP) @[ IoU=0.90      | area=   all | maxDets=100 ] = 0.000
+
+Average Precision (AP) - IoU=0.50 : 0.5435166666666666
+Average Precision (AP) - IoU=0.75 : 0.04889999999999997
