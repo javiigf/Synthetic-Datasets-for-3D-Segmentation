@@ -1,0 +1,17 @@
+for installing CUT, use the yaml attached.
+
+Python3.8 must be used, after that, install using pip3 pillow, torch, torchvision, dominate and visdom.
+
+something like this:
+
+git clone https://github.com/taesungp/contrastive-unpaired-translation.git
+conda create env -f environment.yml
+conda install python3.8
+python3.8 -m pip install --upgrade pip
+pip install torch
+pip install pillow
+pip install torchvision
+pip install dominate
+pip install visdom
+
+python3.8 train.py ...

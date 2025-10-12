@@ -1,0 +1,27 @@
+{
+  "themes": [
+    {
+    "scutoidTheme": {
+        "type": "light",
+        "colors": {
+            "primary": "#78c2ad",
+            "secondary": "#98b0a9",
+            "success": "#97b65a",
+            "info": "#17a2b8",
+            "warning": "#f0ad4e",
+            "danger": "#c17044",
+            "light": "#bce1d6",
+            "dark": "#343a40",
+            "bg": "#effcf8",
+            "fg": "#343a40",
+            "selectbg": "#adb5bd",
+            "selectfg": "#ffffff",
+            "border": "#bfbfbf",
+            "inputfg": "#343a40",
+            "inputbg": "#fff",
+            "active": "#e5e5e5"
+        }
+    }
+    }
+  ]
+}

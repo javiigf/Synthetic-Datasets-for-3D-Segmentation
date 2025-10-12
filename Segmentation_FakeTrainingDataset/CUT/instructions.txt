@@ -1,0 +1,9 @@
+
+TRAIN
+python train.py --dataroot ./datasets/cyst_xz_slices --name cyst_xz_slices --CUT_mode CUT --gan_mode 'vanilla'
+
+TEST
+python test.py --dataroot ./datasets/randomVoronoi --name cyst9 --CUT_mode CUT --phase train
+
+
+python3 test.py --dataroot ./datasets/cyst_xz_slices_test --name cyst_xz_slices --CUT_mode CUT --phase train --num_test 200
