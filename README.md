@@ -79,7 +79,7 @@ Create the environment with:
 
 *conda activate voronoi-seg*
 
-# log_GAN_TFM_Javi.txt
+# log_GAN.txt
 
 This file contains the **training log of the CycleGAN model** used for generating synthetic microscopy-like images from Voronoi-based embryo geometries. The experiment was conducted as a **proof-of-concept test** with a **limited number of iterations and only six epochs**, designed to verify the correct implementation of the generative framework rather than to optimize performance. Content overview:
 
