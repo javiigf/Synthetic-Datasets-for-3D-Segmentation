@@ -1,5 +1,5 @@
 # 🧬 Synthetic Datasets for 3D Segmentation – Master’s Thesis Project
-This repository contains the scripts developed for the Master’s Thesis *“Integration of Synthetic Data Generation and Deep Learning for 3D Epithelial Segmentation”* by **Javier García Flores**, University of Seville (CABD), under the supervision of **Prof. Luis M. Escudero** and **Dr. Pedro J. Gómez-Gálvez**.
+This repository contains the scripts developed for the Master’s Thesis *“Integration of Synthetic Data Generation and Deep Learning for 3D Epithelial Segmentation”* by **Javier García Flores**, University of Seville (IBiS), under the supervision of **Prof. Luis M. Escudero** and **Dr. Pedro J. Gómez-Gálvez**.
 
 The project focuses on the automatic generation and evaluation of synthetic 3D epithelial datasets using Voronoi-based modeling and deep learning segmentation pipelines.
 
@@ -79,9 +79,18 @@ Create the environment with:
 
 *conda activate voronoi-seg*
 
+# log_GAN_TFM_Javi.txt
+
+This file contains the **training log of the CycleGAN model** used for generating synthetic microscopy-like images from Voronoi-based embryo geometries. The experiment was conducted as a **proof-of-concept test** with a **limited number of iterations and only six epochs**, designed to verify the correct implementation of the generative framework rather than to optimize performance. Content overview:
+
+- Training progress per epoch, including generator and discriminator loss values.
+
+- Cycle-consistency and identity losses.
+
+- Basic validation metrics for monitoring convergence trends.
+
 ## Data and Integration
 
 - Synthetic and segmentation models were trained and evaluated using the **BiaPy** framework.
-- The full BiaPy configuration files and trained models are available upon request from: **Prof. Luis M. Escudero (CABD – University of Seville)**.
+- The full BiaPy configuration files and trained models are available upon request from: **Prof. Luis M. Escudero (IBiS – University of Seville)**.
 - The remaining code and training data are hosted in a **private institutional repository** and can be accessed under request for review or collaboration.
-
