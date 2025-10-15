@@ -89,6 +89,10 @@ This file contains the **training log of the CycleGAN model** used for generatin
 
 - Basic validation metrics for monitoring convergence trends.
 
+## train_GAN.txt
+
+This file contains the **CycleGAN training configuration** and **key hyperparameters** used during the proof-of-concept run. It includes network settings, optimizer parameters, learning rates, and dataset paths necessary to reproduce the experiment. Together with the *log_GAN.txt*, it provides full transparency of the training process and ensures reproducibility of the generative framework setup.
+
 ## Data and Integration
 
 - Synthetic and segmentation models were trained and evaluated using the **BiaPy** framework.
